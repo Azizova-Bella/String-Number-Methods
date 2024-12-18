@@ -67,6 +67,11 @@
    const text = "JavaScript";
    console.log(text.substring(0, 4));
    ```
+4. **`slice (sarshavi, tamomshavi)`**: Возвращает подстроку с указанными индексами , но плюс в том что принимает и минусавые значение. ✂️
+   ```javascript
+   const text = "JavaScript";
+   console.log(text.substring(0, 4));
+   ```
 
 1. **`toLowerCase()`**: Преобразует строку в нижний регистр. 🔡
    ```javascript
