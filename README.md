@@ -1,7 +1,8 @@
 # String-Number-Methods
 
 # Методы String и Number в JavaScript
-![Watch this video](https://youtu.be/nQ5Ms1WqNa4?si=48gJ1bZ3VigU8UFX&t=89)
+![Watch this video](https://youtu.be/nQ5Ms1WqNa4?si=X-og7numZ-2g_8Ke)
+
 
 ## Методы String
 **String** — это объект, представляющий текст. JavaScript предоставляет множество методов для работы со строками. ✍️
