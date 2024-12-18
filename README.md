@@ -5,6 +5,8 @@
 ## Методы String
 **String** — это объект, представляющий текст. JavaScript предоставляет множество методов для работы со строками. ✍️
 
+[!методы в js](https://avatars.mds.yandex.net/i?id=6c38540e58e91c7dbec9d14e8a5fbf0951f5e65f-12813693-images-thumbs&n=13)
+
 ### Методы для манипуляции строками
 1. **`concat(string)`**: Соединяет строки. ➕
    ```javascript
